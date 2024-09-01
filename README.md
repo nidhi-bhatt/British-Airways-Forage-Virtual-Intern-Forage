@@ -42,7 +42,7 @@ This repository contains my work for the British Airways Data Science Job Simula
 - Business insight generation
 
 ## Completion Certificate
-[View Certificate](link_to_certificate.pdf)
+[View Certificate]([link_to_certificate.pdf](https://github.com/nidhi-bhatt/British-Airways-Virtual-Intern-Forage/blob/main/Virtual-Intern-Certificate.pdf))
 
 ---
 *This project was completed as part of the British Airways Data Science Job Simulation on Forage.*
